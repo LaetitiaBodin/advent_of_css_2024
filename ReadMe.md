@@ -1,14 +1,30 @@
-# Advent of CSS 2024 #  
+<h1>Advent of CSS 2024<h1>
 
-## Description ##  
-This is a collection of CSS challenges taken from Amy Dutton's Advent of CSS 2024.  
-Find out more about the challenges on [Advent of CSS website](https://www.adventofcss.com/).  
+<h2>Description</h2>
+<p>This is a collection of CSS challenges taken from Amy Dutton's Advent of CSS 2024.</br>
+Find out more about the challenges on <a href="https://www.adventofcss.com/">Advent of CSS website</a>.</p>
 
-## Content ##  
-| Day | Challenge | Branch |
-| :-- | :-------- | :----- |  
+<h2>Content</h2>
+<table>
+  <thead>
+    <tr>
+      <th align="left">Day</th>
+      <th align="left">Challenge</th>
+      <th align="left">Demo</th>
+      <th align="left">Branch</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>Photo Gallery Card</td>
+      <td><a href="laetitiabodin.github.io/advent_of_css_2024/01-photo_gallery_card/">Github Page</a></td>
+      <td><a href="https://github.com/LaetitiaBodin/advent_of_css_2024/tree/01-photo_gallery_card">01-photo_gallery_card</a></td>
+    </tr>
+  </tbody>
+</table>
 
-## Credits ##  
-The challenges were published by Amy Dutton.  
-The photos used were published by different authors. See each challenge for the credits.  
-The code was made by me, Laëtitia Bodin. Find out more about my work on my [Github profile](https://github.com/LaetitiaBodin).  
+<h2>Credits</h2>
+<p>The challenges were published by Amy Dutton.</p>
+<p>The photos used were published by different authors. See each challenge for the credits.</p>
+<p>The code was made by me, Laëtitia Bodin. Find out more about my work on my <a href="https://github.com/LaetitiaBodin">Github profile</a>.</p>
